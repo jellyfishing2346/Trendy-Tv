@@ -38,6 +38,8 @@ The dashboard includes various chart types to visualize data effectively:
     Chart.js (for data visualization)1
     API integration for data fetching
 
+    Loom:https://www.loom.com/share/f26eb81beac442f9b32899f4a31f8500?sid=e903ca7a-6159-4f97-a551-5dc6a68cb379
+
 🔧 Customization
 The dashboard components are designed to be easily customizable. You can adjust chart colors, titles, and data sources as needed1
 .
