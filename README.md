@@ -48,9 +48,11 @@ The dashboard supports real-time data updates, refreshing the displayed informat
 .
 🎨 Responsive Design
 The layout is responsive, adapting to different screen sizes for optimal viewing on various devices1
-.
-🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-📝 License
-This project is open source and available under the MIT License. Created with ❤️ using React and modern web technologies
-Copyright 2024 [Faizan Khan]
+
+Copyright [2024] [Faizan Khan]
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
